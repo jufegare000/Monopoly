@@ -1,6 +1,9 @@
 
 table {
     text-align: center;
-    width: 888px;
-    height: 888px;
+    width: 950px;
+    height: 950px;
+}
+html {
+    background-color: #e0f0db;
 }
